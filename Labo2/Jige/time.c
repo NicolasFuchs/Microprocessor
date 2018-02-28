@@ -38,6 +38,13 @@ typedef struct _TEST5{
 	int c __attribute__ ((packed));
 } TEST5;
 
+typedef struct _TEST10{
+	char b;
+	char d;
+	int a __attribute__ ((packed));
+	int c __attribute__ ((packed));
+} TEST10;
+
 typedef struct __BUFF3{
 	TEST3 buff[100];
 } BUFF3;
