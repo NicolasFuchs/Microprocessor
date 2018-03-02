@@ -1,0 +1,10 @@
+Test1:
+  struct size = 16  nb secondes :	0.067176
+Test2:
+  struct size = 12  nb secondes :	0.081685
+Test3:
+  struct size = 16  nb secondes :	0.063371
+Test4:
+  struct size = 10  nb secondes :	0.037635
+Test5:
+  struct size = 12  nb secondes :	0.038351

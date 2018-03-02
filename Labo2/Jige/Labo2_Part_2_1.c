@@ -29,8 +29,8 @@ typedef struct _TEST4{
 	int c __attribute__ ((packed));
 } TEST4;
 typedef struct _TEST5{
-	char b __attribute__ ((packed));
-	char d __attribute__ ((packed));
+	char b;
+	char d;
 	int a __attribute__ ((aligned (4)));
 	int c __attribute__ ((aligned (4)));
 } TEST5;
